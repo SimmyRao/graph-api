@@ -1,0 +1,20 @@
+{
+  "name": "apiwithgq1",
+  "version": "1.0.0",
+  "description": "this is api with graphq1",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs graphq1"
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "graph1"
+  ],
+  "author": "developer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "this is api with graphq1"
+  }
+}
